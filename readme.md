@@ -2,7 +2,7 @@
 
 ## About this repository
 
-This is a student portfolio (to be) completed as part of the course MATH 76.01: Topics in Applied Mathematics at Dartmouth College in the 2024 Summer Term.
+This is a student portfolio completed as part of the course MATH 76.01: Topics in Applied Mathematics at Dartmouth College in the 2024 Summer Term.
 
 
 ## About this course
